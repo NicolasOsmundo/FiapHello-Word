@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapHello Word", "FiapHello Word.csproj", "{3321EED0-846E-4C41-A3A5-B52764279C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3321EED0-846E-4C41-A3A5-B52764279C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3321EED0-846E-4C41-A3A5-B52764279C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3321EED0-846E-4C41-A3A5-B52764279C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3321EED0-846E-4C41-A3A5-B52764279C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CF35FD-2653-4F7B-8418-2862212620D6}
+	EndGlobalSection
+EndGlobal
